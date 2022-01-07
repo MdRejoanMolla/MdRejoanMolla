@@ -53,7 +53,7 @@ h1{
       padding-right: 20px;
       
 }
-#p{
+.p{
       background-color: lightblue;
       margin-left: 2%;
       margin-right: 2%;
@@ -63,7 +63,7 @@ h1{
       border: 5px solid white;
 
 }
-#i{
+.i{
       background-color: lightpink;
       margin-left: 2%;
       margin-right: 2%;
@@ -73,7 +73,7 @@ h1{
       border: 5px solid white;
       
 }
-#c{
+.c{
       background-color: lightyellow;
       margin-left: 2%;
       margin-right: 2%;
@@ -86,6 +86,18 @@ h1{
 #center{
       text-align: center;
 }
+develop{
+      background-image: url(mission-2022-main/images/shapes/shape-1.png);
+      object-position: 10px;
+}
+     
+.footer{
+     text-align: center;
+     border: 40% solid black;
+     background-color: black;
+}
+.white{color: white;}
+.red{color: red;}
 
 
 
